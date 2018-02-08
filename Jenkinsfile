@@ -1,0 +1,1 @@
+stage('build') { echo 'yes' }
